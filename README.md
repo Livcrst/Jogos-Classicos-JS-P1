@@ -21,7 +21,8 @@ Trata-se de um jogo baseado em ping pong, em que os elementos são uma raquete e
 
 ## Preview
 
-  ![image](![image](https://user-images.githubusercontent.com/50409673/131037229-3afc2b54-23dc-4ace-a3d6-16450a5aa5a9.png)
+  ![image](https://user-images.githubusercontent.com/50409673/131037735-7fa91e47-bfaa-4533-a752-e0a5f19fcc50.png)
+)
 )
 
  
